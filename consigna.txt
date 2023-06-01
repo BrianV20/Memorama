@@ -1,0 +1,30 @@
+Proyecto: Crear un juego de memoria utilizando HTML, CSS y JavaScript.
+El juego consistirá en una cuadrícula de tarjetas que se mezclarán aleatoriamente al inicio y al empezar un nuevo juego. El objetivo principal es encontrar todas las parejas de tarjetas que coincidan.
+Cuando se seleccionen dos tarjetas, se revelarán y se compararán. Si coinciden, permanecerán visibles; de lo contrario, se ocultarán nuevamente.
+El juego finaliza cuando se encuentran todas las parejas de tarjetas.
+Condiciones:
+
+- Mínimo de 6 tarjetas para desarrollar el juego.
+- Debe haber un botón de “Nuevo Juego”. ----HECHO
+- Se debe usar una sola página HTML. ----HECHO
+- Se podrá usar más de una hoja de estilos (CSS). ----HECHO
+- Se podrá usar mas de un script (JavaScript) para implementar la lógica.  ----HECHO
+- La página deberá ser “responsive” hasta un ancho mínimo de 280px.
+- El diseño debe ser coherente, intuitivo y “accesible”. ----HECHO
+- No hay limitaciones con respecto a los estilos y a la funcionalidad extra que se quiera agregar.
+- Esta permitido usar alguna librería/Framework de CSS como por ejemplo Bootstrap o Tailwind, y también cualquier fuente personalizada, icono o imagen. 
+Formato y fecha límite de entrega:
+- Todo el código deberá estar subido a un repositorio en la web, como GitHub o GitLab.
+- Para la entrega se deberá proporcionar el link del repositorio y un link de despliegue en donde este alojado el sitio web, (ejemplo: Vercel, Netlify, etc.)
+- Se aceptarán entregas hasta el Jueves 01/06 – 10:00AM.
+Criterios de evaluación:
+- Cumplimiento de todas las condiciones establecidas.
+- Entrega en tiempo y en forma.
+- Experiencia de usuario (UX).
+- Calidad del código.
+- Accesibilidad.
+
+
+COSAS A HACER:
+- Mejorar el CSS. IMPORTANTE
+- Hacerla responsive. IMPORTANTE
